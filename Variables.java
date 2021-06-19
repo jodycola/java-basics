@@ -17,8 +17,6 @@ public class Variables {
         System.out.println(aFloat);
         System.out.println(aChar);
         System.out.println(aBoolean);
-        
-
 
     }
 }
